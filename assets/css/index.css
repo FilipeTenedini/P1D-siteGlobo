@@ -1,0 +1,164 @@
+body{
+    font-family: 'Encode Sans', sans-serif;
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    border-bottom: 1px solid #F5F6F7;
+}
+.container{
+    width: 1250px;
+}
+header .container{
+    display: flex;
+    justify-content: center;
+}
+header .header-logo img{
+    width: 100%;
+
+}
+
+
+
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid #F5F6F7;
+    margin-bottom: 20px;
+}
+nav .container ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+}
+nav .container ul li a{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    font-size: 19px;
+}
+#g1{
+    color: #C3170C;
+}
+#oglobo{
+    color: #1E4B9B;
+}
+#valor{
+    color: #006766;
+}
+#ge{
+    color: #07AA47;
+}
+#cartola{
+    color: #E3662B;
+}
+#globoplay{
+    color: #FB0735;
+}
+#dropz{
+    color: #FF75BB;
+}
+#gshow{
+    color: #EC7D00;
+}
+#quem{
+    color: #323333;
+}
+#receitas{
+    color: #A81D83;
+}
+
+
+
+
+body .container.main{
+    margin: auto;
+    display: flex;
+}
+.left-side{
+    flex: 1;
+}
+
+.left-side main{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 40px;
+}
+.left-side .main-title{
+    flex: 2;
+    margin-bottom: 20px;
+}
+.left-side .main-title a{
+    text-decoration: none;
+}
+.left-side .main-title h1{
+    color: #C4160C;
+    font-size: 52px;
+    font-weight: bold;
+    line-height: 67px;
+    margin-bottom: 10px;
+}
+.left-side .sub-title{
+flex: 1;
+}
+.sub-title a{
+    text-decoration: none;
+}
+.sub-title a h2{
+    color: #303124;
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+.left-side section{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+section a{
+    text-decoration: none;
+    margin-right: 15px;
+    margin-bottom: 100px;
+}
+.left-side section article{
+    display: flex;
+    flex-direction: column;
+    width: 193px;
+}
+.article-img img{
+    width: 100%;
+    height: 110px;
+    border-radius: 12px;
+    margin-bottom: 10px;
+}
+.article-first-desc{
+    color: #C4170C;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.article-title h3{
+    color: #2F3134;
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.article-second-desc p{
+    color: #2F3134;
+    font-weight: 400;
+
+}
+
+
+
+
+
+
+
+
+.right-side{
+    flex: 1  ;
+}
