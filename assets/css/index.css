@@ -369,8 +369,11 @@ article{
     .menu-mobile{
         display: flex;
     }
+    .left-side{
+        margin-right: 0;
+    }
     .left-side main{
-        margin-bottom: 5px;
+        margin-bottom: 20px;
         border-bottom: 1px solid purple;
     }
     .left-side main .main-title{
@@ -386,16 +389,22 @@ article{
     .left-side .sub-title a p{
         color: #cd150b;
         font-size: 18px;
-        margin-bottom: 15px;
+        margin-bottom: 5px;
         font-weight: 700;
     }
-    .first-line--notices{
+    .left-side section a{
+        margin-right: 0;
+    }
+    .first-line--notices,
+    .second-line--notices{
         flex-direction: column;
     }
-    .first-line--notices a{
+    .first-line--notices a,
+    .second-line--notices a{
         border-bottom: 1px solid purple;
     }
-    .first-line--notices article{
+    .first-line--notices article,
+    .second-line--notices article{
         width: 100%;
         flex-direction: row;
         flex-wrap: wrap;
@@ -426,4 +435,90 @@ article{
         font-size: 16px;
         margin-bottom: 9px;
     }
+    .left-side .second-line--notices .article-title{
+        height: 60px;
+    }
+    .left-side .second-line--notices article h2{
+        color: #CD150B;
+        font-size: 18px;
+        height: 20px;
+    }
+    .left-side .second-line--notices article .article-second-desc p{
+        color: #CD150B;
+        font-size: 15.5px;
+        margin-bottom: 37px;
+    }
+    
+    .right-side--left,
+    .right-side--right{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .right-side--left a,
+    .right-side--right a{
+        display: flex;
+        height: 140px;
+        width: 100%;
+    }
+    .right-side .right-side--left article,
+    .right-side .right-side--right article{
+        width: 100%;
+        height: auto;
+    } 
+    .right-side--left a,
+    .right-side--right a{
+        border-bottom: 1px solid purple;
+    }
+    .right-side--left a article,
+    .right-side--right a article{
+        flex-direction: row;
+        flex-wrap: wrap;
+        width: 100%;
+    }
+    .right-side--left a article .article-call,
+    .right-side--right a article .article-call{
+        width: 120px;
+        height: 68px;
+    }
+    .right-side--left a article .article-call img,
+    .right-side--right a article .article-call img{
+        height: 67px;
+    }
+    .right-side--left a article .article-title,
+    .right-side--right a article .article-title{
+        flex: 1
+    }
+    .right-side--left a article .article-title h2,
+    .right-side--right a article .article-title h2{
+        padding-left: 13.5px;
+    }
+
+    
+    .right-side--left a article .article-title h2{
+        color: #06AA48;
+        font-weight: 700;
+    }
+    .article-second-desc{
+        margin-top: 16.15px;
+    }
+    .right-side--left a article .article-second-desc p{
+        color: #06AA48;
+        font-size: 15.5px;
+        margin-bottom: 8px;
+    }
+
+
+    .right-side--right a article .article-title h2{
+        color: #FF8203;
+        font-weight: 700;
+    }
+    .article-second-desc{
+        margin-top: 16.15px;
+    }
+    .right-side--right a article .article-second-desc p{
+        color: #FF8203;
+        font-size: 15.5px;
+        margin-bottom: 8px;
+    }
+
 }
