@@ -2,7 +2,7 @@
 
 - [ ]  Aplicar o layout seguindo o figma fornecido;
 - [ ]  Utilize a fonte **Encode Sans** na página. Como não é uma fonte padrão nos computadores, você terá que importá-la na página
-- [ ] Todas as notícias devem ser links. Não é necessário colocar links para as páginas reais, pode ser um link fake (ex: https://globo.com).
+- [ ] Todas as notícias devem ser links.
 ![image](https://user-images.githubusercontent.com/105571583/206616077-d8fb2458-8931-4b25-91fb-a409e4c01b32.png)
 ## Bônus (requisitos extras)
 
