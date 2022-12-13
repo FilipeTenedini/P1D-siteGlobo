@@ -1,7 +1,8 @@
 # 1° Projeto Driven Education Bootcamp
-# Você pode acessar a aplicação neste link:
-  - <a href="https://filipetenedini.github.io/P1D-siteGlobo/">Primeiro projeto</a>
-# Requisitos
+## Você pode acessar a aplicação neste link:
+### - <a href="https://filipetenedini.github.io/P1D-siteGlobo/">Primeiro projeto</a>
+
+# Requisitos passados
 
 - [ ]  Aplicar o layout seguindo o figma fornecido;
 - [ ]  Utilize a fonte **Encode Sans** na página. Como não é uma fonte padrão nos computadores, você terá que importá-la na página
