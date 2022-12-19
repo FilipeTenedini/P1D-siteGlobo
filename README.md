@@ -45,9 +45,10 @@ O PokeGame é um jogo da forca com cerca de 10 pokemóns cadastrados aonde você
 
 <h1 id="Imagens">🔖Imagens</h1>
 ### Desktop:
-![image](https://user-images.githubusercontent.com/105571583/206616077-d8fb2458-8931-4b25-91fb-a409e4c01b32.png)
+![image](https://user-images.githubusercontent.com/105571583/208426628-b957b195-7bf4-4a70-887d-95e57f0cc88b.png)
 ### Mobile:
-![image](https://user-images.githubusercontent.com/105571583/206616110-135e5d29-57c8-461b-8b2d-26ca2581ae12.png)
+![image](https://user-images.githubusercontent.com/105571583/208426723-baa51151-afb1-41c6-8c25-0dfc5dbfe395.png)
+
 
 <h1 id="Aprendizados">🧠 Aprendizados</h1>
 
