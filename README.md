@@ -4,13 +4,12 @@
 
 <p align="center">
   |&nbsp;&nbsp;&nbsp<a href="#Projeto">Projeto</a>&nbsp;&nbsp;
-  |&nbsp;&nbsp;&nbsp<a href="#Imagens">Imagens</a>&nbsp;&nbsp;
   |&nbsp;&nbsp;&nbsp<a href="#Tecnologias">Tecnologias</a>&nbsp;&nbsp;
   |&nbsp;&nbsp;&nbsp<a href="#Aprendizados">Aprendizados</a>&nbsp;&nbsp;&nbsp;|&nbsp;
 </p>
 
 <h1 id="Projeto"> 💻 Projeto</h1>
-### Requisitos passados
+<h3>- Requisitos passados </h3>
 
 - [ ]  Aplicar o layout seguindo o figma fornecido;
 - [ ]  Utilize a fonte **Encode Sans** na página. Como não é uma fonte padrão nos computadores, você terá que importá-la na página
@@ -28,27 +27,11 @@ Neste bônus, o desafio é fazer com que a página se adapte para telas com reso
 - [ ]  O menu de navegação deve ficar embaixo da logo;
 - [ ]  As notícias devem ficar empilhadas, conforme mostra o layout móvel.
 
-
-
-
-
-
 <h1 id="Tecnologias">🚀 Tecnologias</h1>
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-
-
-
-O PokeGame é um jogo da forca com cerca de 10 pokemóns cadastrados aonde você pode testar seu conhecimento do nome dos mesmos e ao final, receberá uma carta com informações do pokemón.
-
-<h1 id="Imagens">🔖Imagens</h1>
-### Desktop:
-![image](https://user-images.githubusercontent.com/105571583/208426628-b957b195-7bf4-4a70-887d-95e57f0cc88b.png)
-### Mobile:
-![image](https://user-images.githubusercontent.com/105571583/208426723-baa51151-afb1-41c6-8c25-0dfc5dbfe395.png)
-
 
 <h1 id="Aprendizados">🧠 Aprendizados</h1>
 
