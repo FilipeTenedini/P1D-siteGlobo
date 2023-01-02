@@ -1,6 +1,6 @@
 # 1° Projeto Driven Education Bootcamp
 ## Você pode acessar a aplicação neste link:
-  ### - <a href="https://filipetenedini.github.io/P1D-siteGlobo/">Primeiro projeto</a>
+  ### - <a href="https://filipetenedini.github.io/P1D-siteGlobo/">Primeiro projeto (Layout site da Globo)</a>
 
 <p align="center">
   |&nbsp;&nbsp;&nbsp<a href="#Projeto">Projeto</a>&nbsp;&nbsp;
